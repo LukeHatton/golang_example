@@ -36,3 +36,9 @@ godoc -http=:8080
 ```
 
 很多网上资料说安装godoc应该使用~~go get golang.org/x/tools/cmd/godoc~~，但是这个方法已过期，不适用于新版本的golang
+
+## go语言编程高级
+
+[参考链接](https://chai2010.cn/advanced-go-programming-book/ch2-cgo/ch2-01-hello-cgo.html)
+
+这个链接中的文档包含了很多go的高级特性，如调用C语言静态库和动态库、golang的汇编、RPC、go在web和分布式系统中的应用等

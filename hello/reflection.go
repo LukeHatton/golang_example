@@ -6,7 +6,7 @@ import (
 	"reflect"
 )
 
-func main() {
+func main6() {
 	/* 反射三原则 */
 	var f float64 = 3.4
 	typeOf := reflect.TypeOf(f)
